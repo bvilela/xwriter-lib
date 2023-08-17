@@ -7,6 +7,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class DefaultConfig {
 
-    public static final FontFamilyEnum FONT_FAMILY = FontFamilyEnum.TIME_ROMAN;
+    public static final FontFamilyEnum FONT_FAMILY = FontFamilyEnum.TIMES_ROMAN;
     public static final int FONT_SIZE = 12;
 }
